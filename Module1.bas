@@ -1,5 +1,5 @@
 Attribute VB_Name = "Module1"
-Option Explicit
+Option Explicit 
 
 Sub ClearTable()
 
